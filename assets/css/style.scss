@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+
+.first-secton {
+  float: right
+}
+
 .vertical-menu {
   width: 200px; /* Set a width if you like */
 }
