@@ -18,6 +18,9 @@ Ideas for this page:
 
 
 ```
+
+Where is my [heading](#MyHeading)?
+
 ```markdown
 # Header 1
 ## Header 2
